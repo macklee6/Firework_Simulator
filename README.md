@@ -10,12 +10,6 @@
 
 </div>
 
-## 预览
-
-- [https://nianbroken.github.io/Firework_Simulator/](https://nianbroken.github.io/Firework_Simulator/ "https://nianbroken.github.io/Firework_Simulator/")
-
-- [https://fireworks.nianbroken.top/](https://fireworks.nianbroken.top/ "https://fireworks.nianbroken.top/")
-
 ## 文字烟花
 - 在 'index.html' 的第 23 行处可以修改背景音乐
   
