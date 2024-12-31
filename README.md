@@ -17,7 +17,8 @@
 - [https://fireworks.nianbroken.top/](https://fireworks.nianbroken.top/ "https://fireworks.nianbroken.top/")
 
 ## 文字烟花
-
+- 在 'index.html' 的第 23 行处可以修改背景音乐
+  
 - 在 `js` → `script.js` 的第 81 行处可以修改文字烟花中的文字
 
 - 在 `js` → `script.js` 的第 93 行处可以修改烟花的背景
